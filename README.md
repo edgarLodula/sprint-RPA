@@ -177,7 +177,15 @@ Após rodar `python main.py` ou `docker run sprint-rpa`:
 
 ## Equipe
 
-> Preencher com os nomes do time
+552574 - Bruno Fernandes Nascimento
+
+565260 - Edgar Lódula de Assis
+
+566325 - Júlia Aben-Athar 
+
+565293 - Guilherme Gama 
+
+563632 - Igor Nakajim
 
 ---
 
