@@ -37,7 +37,7 @@ sprint-RPA/
 │   ├── database.py               # Persistência em JSON com audit log
 │   ├── sensor_simulator.py       # Simulação de leituras IoT
 │   ├── scheduler.py              # Rotina de atualização periódica
-│   └── logger.py                 # Logging padronizado
+│   └── login.py                 # Logging padronizado
 │
 ├── logs/                         # Logs gerados em execução
 ├── tests/
