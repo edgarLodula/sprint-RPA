@@ -1,0 +1,5 @@
+2026-05-04 20:24:47 | main | INFO | Iniciando pipeline de ingestão
+2026-05-04 20:25:20 | main | INFO | Iniciando pipeline de ingestão
+2026-05-04 20:25:21 | main | INFO | Pipeline concluído — 34 registros inseridos
+2026-05-04 20:25:21 | main | INFO | Pressione Ctrl+C para encerrar
+2026-05-04 20:25:21 | main | INFO | Agendador iniciado — coletando a cada 10s
