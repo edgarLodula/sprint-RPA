@@ -7,7 +7,7 @@
       "carcaca": "63",
       "rpm": 3490,
       "massa_kg": 10.0,
-      "criado_em": "2026-04-30T23:15:32.922402"
+      "criado_em": "2026-05-04T23:25:21.513486"
     },
     {
       "id": "WEG-W22-63-II_polos-0.18kw",
@@ -16,7 +16,7 @@
       "carcaca": "63",
       "rpm": 3490,
       "massa_kg": 10.7,
-      "criado_em": "2026-04-30T23:15:32.923262"
+      "criado_em": "2026-05-04T23:25:21.514461"
     },
     {
       "id": "WEG-W22-63-II_polos-0.25kw",
@@ -25,7 +25,7 @@
       "carcaca": "63",
       "rpm": 3490,
       "massa_kg": 10.7,
-      "criado_em": "2026-04-30T23:15:32.923871"
+      "criado_em": "2026-05-04T23:25:21.515133"
     },
     {
       "id": "WEG-W22-71-II_polos-0.37kw",
@@ -34,7 +34,7 @@
       "carcaca": "71",
       "rpm": 3520,
       "massa_kg": 13.0,
-      "criado_em": "2026-04-30T23:15:32.924435"
+      "criado_em": "2026-05-04T23:25:21.515716"
     },
     {
       "id": "WEG-W22-80-II_polos-0.55kw",
@@ -43,7 +43,7 @@
       "carcaca": "80",
       "rpm": 3525,
       "massa_kg": 16.5,
-      "criado_em": "2026-04-30T23:15:32.925004"
+      "criado_em": "2026-05-04T23:25:21.516312"
     },
     {
       "id": "WEG-W22-90S-II_polos-1.1kw",
@@ -52,7 +52,7 @@
       "carcaca": "90S",
       "rpm": 3535,
       "massa_kg": 24.0,
-      "criado_em": "2026-04-30T23:15:32.925532"
+      "criado_em": "2026-05-04T23:25:21.516884"
     },
     {
       "id": "WEG-W22-90L-II_polos-desconhecido",
@@ -61,7 +61,7 @@
       "carcaca": "90L",
       "rpm": 3520,
       "massa_kg": 25.0,
-      "criado_em": "2026-04-30T23:15:32.926144"
+      "criado_em": "2026-05-04T23:25:21.517888"
     },
     {
       "id": "WEG-W22-100L-II_polos-desconhecido",
@@ -70,7 +70,7 @@
       "carcaca": "100L",
       "rpm": 3525,
       "massa_kg": 37.0,
-      "criado_em": "2026-04-30T23:15:32.926694"
+      "criado_em": "2026-05-04T23:25:21.518590"
     },
     {
       "id": "WEG-W22-112M-II_polos-3.7kw",
@@ -79,7 +79,7 @@
       "carcaca": "112M",
       "rpm": 3520,
       "massa_kg": 45.0,
-      "criado_em": "2026-04-30T23:15:32.927298"
+      "criado_em": "2026-05-04T23:25:21.519236"
     },
     {
       "id": "WEG-W22-132S-II_polos-5.5kw",
@@ -88,7 +88,7 @@
       "carcaca": "132S",
       "rpm": 3515,
       "massa_kg": 69.0,
-      "criado_em": "2026-04-30T23:15:32.927871"
+      "criado_em": "2026-05-04T23:25:21.519966"
     },
     {
       "id": "WEG-W22-132M-II_polos-5.0kw",
@@ -97,7 +97,7 @@
       "carcaca": "132M",
       "rpm": 3525,
       "massa_kg": 70.0,
-      "criado_em": "2026-04-30T23:15:32.928464"
+      "criado_em": "2026-05-04T23:25:21.520946"
     },
     {
       "id": "WEG-W22-132M/L-II_polos-desconhecido",
@@ -106,7 +106,7 @@
       "carcaca": "132M/L",
       "rpm": 3530,
       "massa_kg": 92.0,
-      "criado_em": "2026-04-30T23:15:32.929099"
+      "criado_em": "2026-05-04T23:25:21.521574"
     },
     {
       "id": "WEG-W22-71-II_polos_opcional-0.18kw",
@@ -115,7 +115,7 @@
       "carcaca": "71",
       "rpm": 3520,
       "massa_kg": 10.0,
-      "criado_em": "2026-04-30T23:15:32.929769"
+      "criado_em": "2026-05-04T23:25:21.522380"
     },
     {
       "id": "WEG-W22-90S-II_polos_opcional-desconhecido",
@@ -124,7 +124,7 @@
       "carcaca": "90S",
       "rpm": 3520,
       "massa_kg": 25.0,
-      "criado_em": "2026-04-30T23:15:32.930422"
+      "criado_em": "2026-05-04T23:25:21.522975"
     },
     {
       "id": "WEG-W22-90L-II_polos_opcional-desconhecido",
@@ -133,7 +133,7 @@
       "carcaca": "90L",
       "rpm": 3500,
       "massa_kg": 27.5,
-      "criado_em": "2026-04-30T23:15:32.931112"
+      "criado_em": "2026-05-04T23:25:21.523531"
     },
     {
       "id": "WEG-W22-63-IV_polos-0.12kw",
@@ -142,7 +142,7 @@
       "carcaca": "63",
       "rpm": 1730,
       "massa_kg": 9.8,
-      "criado_em": "2026-04-30T23:15:32.931866"
+      "criado_em": "2026-05-04T23:25:21.524088"
     },
     {
       "id": "WEG-W22-71-IV_polos-0.18kw",
@@ -151,7 +151,7 @@
       "carcaca": "71",
       "rpm": 1730,
       "massa_kg": 12.7,
-      "criado_em": "2026-04-30T23:15:32.932600"
+      "criado_em": "2026-05-04T23:25:21.524657"
     },
     {
       "id": "WEG-W22-71-IV_polos-0.25kw",
@@ -160,7 +160,7 @@
       "carcaca": "71",
       "rpm": 1725,
       "massa_kg": 13.2,
-      "criado_em": "2026-04-30T23:15:32.933342"
+      "criado_em": "2026-05-04T23:25:21.525253"
     },
     {
       "id": "WEG-W22-80-IV_polos-0.37kw",
@@ -169,7 +169,7 @@
       "carcaca": "80",
       "rpm": 1740,
       "massa_kg": 17.8,
-      "criado_em": "2026-04-30T23:15:32.934181"
+      "criado_em": "2026-05-04T23:25:21.525847"
     },
     {
       "id": "WEG-W22-90S-IV_polos-desconhecido",
@@ -178,7 +178,7 @@
       "carcaca": "90S",
       "rpm": 1765,
       "massa_kg": 24.0,
-      "criado_em": "2026-04-30T23:15:32.935128"
+      "criado_em": "2026-05-04T23:25:21.526444"
     },
     {
       "id": "WEG-W22-90L-IV_polos-1.1kw",
@@ -187,7 +187,7 @@
       "carcaca": "90L",
       "rpm": 1760,
       "massa_kg": 28.0,
-      "criado_em": "2026-04-30T23:15:32.936031"
+      "criado_em": "2026-05-04T23:25:21.527163"
     },
     {
       "id": "WEG-W22-100L-IV_polos-desconhecido",
@@ -196,7 +196,7 @@
       "carcaca": "100L",
       "rpm": 1745,
       "massa_kg": 37.0,
-      "criado_em": "2026-04-30T23:15:32.936922"
+      "criado_em": "2026-05-04T23:25:21.527810"
     },
     {
       "id": "WEG-W22-112M-IV_polos-3.0kw",
@@ -205,7 +205,7 @@
       "carcaca": "112M",
       "rpm": 1745,
       "massa_kg": 46.0,
-      "criado_em": "2026-04-30T23:15:32.937879"
+      "criado_em": "2026-05-04T23:25:21.528462"
     },
     {
       "id": "WEG-W22-132S-IV_polos-desconhecido",
@@ -214,7 +214,7 @@
       "carcaca": "132S",
       "rpm": 1735,
       "massa_kg": 65.0,
-      "criado_em": "2026-04-30T23:15:32.939127"
+      "criado_em": "2026-05-04T23:25:21.529133"
     },
     {
       "id": "WEG-W22-132M-IV_polos-5.5kw",
@@ -223,7 +223,7 @@
       "carcaca": "132M",
       "rpm": 1750,
       "massa_kg": 80.0,
-      "criado_em": "2026-04-30T23:15:32.940217"
+      "criado_em": "2026-05-04T23:25:21.529821"
     },
     {
       "id": "WEG-W22-80-IV_polos_opcional-desconhecido",
@@ -232,7 +232,7 @@
       "carcaca": "80",
       "rpm": 1740,
       "massa_kg": 18.0,
-      "criado_em": "2026-04-30T23:15:32.941274"
+      "criado_em": "2026-05-04T23:25:21.530524"
     },
     {
       "id": "WEG-W22-90L-IV_polos_opcional-desconhecido",
@@ -241,7 +241,7 @@
       "carcaca": "90L",
       "rpm": 1765,
       "massa_kg": 24.0,
-      "criado_em": "2026-04-30T23:15:32.942394"
+      "criado_em": "2026-05-04T23:25:21.531246"
     },
     {
       "id": "WEG-W22-100L-IV_polos_opcional-desconhecido",
@@ -250,7 +250,7 @@
       "carcaca": "100L",
       "rpm": 1750,
       "massa_kg": 40.0,
-      "criado_em": "2026-04-30T23:15:32.943706"
+      "criado_em": "2026-05-04T23:25:21.531960"
     },
     {
       "id": "WEG-W22-112M-IV_polos_opcional-desconhecido",
@@ -259,7 +259,7 @@
       "carcaca": "112M",
       "rpm": 1730,
       "massa_kg": 51.0,
-      "criado_em": "2026-04-30T23:15:32.944861"
+      "criado_em": "2026-05-04T23:25:21.532741"
     },
     {
       "id": "WEG-W22-90L-VI_polos-desconhecido",
@@ -268,7 +268,7 @@
       "carcaca": "90L",
       "rpm": 1165,
       "massa_kg": 27.0,
-      "criado_em": "2026-04-30T23:15:32.946057"
+      "criado_em": "2026-05-04T23:25:21.533495"
     },
     {
       "id": "WEG-W22-100L-VI_polos-1.1kw",
@@ -277,7 +277,7 @@
       "carcaca": "100L",
       "rpm": 1175,
       "massa_kg": 37.0,
-      "criado_em": "2026-04-30T23:15:32.947291"
+      "criado_em": "2026-05-04T23:25:21.534242"
     },
     {
       "id": "WEG-W22-112M-VI_polos-2.2kw",
@@ -286,7 +286,7 @@
       "carcaca": "112M",
       "rpm": 1175,
       "massa_kg": 50.0,
-      "criado_em": "2026-04-30T23:15:32.948462"
+      "criado_em": "2026-05-04T23:25:21.534993"
     },
     {
       "id": "WEG-W22-132M-VI_polos-desconhecido",
@@ -295,7 +295,7 @@
       "carcaca": "132M",
       "rpm": 1175,
       "massa_kg": 72.0,
-      "criado_em": "2026-04-30T23:15:32.949660"
+      "criado_em": "2026-05-04T23:25:21.535795"
     },
     {
       "id": "WEG-W22-132M*-VI_polos-desconhecido",
@@ -304,1754 +304,179 @@
       "carcaca": "132M*",
       "rpm": 1170,
       "massa_kg": 78.0,
-      "criado_em": "2026-04-30T23:15:32.950860"
-    },
-    {
-      "id": "WEG-W22-63-II_polos-0.12kw",
-      "cv": 6.0,
-      "kw": 0.12,
-      "carcaca": "63",
-      "rpm": 3490,
-      "massa_kg": 10.0,
-      "criado_em": "2026-04-30T23:28:23.192875"
-    },
-    {
-      "id": "WEG-W22-63-II_polos-0.18kw",
-      "cv": 5.0,
-      "kw": 0.18,
-      "carcaca": "63",
-      "rpm": 3490,
-      "massa_kg": 10.7,
-      "criado_em": "2026-04-30T23:28:23.194421"
-    },
-    {
-      "id": "WEG-W22-63-II_polos-0.25kw",
-      "cv": 3.0,
-      "kw": 0.25,
-      "carcaca": "63",
-      "rpm": 3490,
-      "massa_kg": 10.7,
-      "criado_em": "2026-04-30T23:28:23.195755"
-    },
-    {
-      "id": "WEG-W22-71-II_polos-0.37kw",
-      "cv": 5.0,
-      "kw": 0.37,
-      "carcaca": "71",
-      "rpm": 3520,
-      "massa_kg": 13.0,
-      "criado_em": "2026-04-30T23:28:23.197048"
-    },
-    {
-      "id": "WEG-W22-80-II_polos-0.55kw",
-      "cv": 5.0,
-      "kw": 0.55,
-      "carcaca": "80",
-      "rpm": 3525,
-      "massa_kg": 16.5,
-      "criado_em": "2026-04-30T23:28:23.198655"
-    },
-    {
-      "id": "WEG-W22-90S-II_polos-1.1kw",
-      "cv": 5.0,
-      "kw": 1.1,
-      "carcaca": "90S",
-      "rpm": 3535,
-      "massa_kg": 24.0,
-      "criado_em": "2026-04-30T23:28:23.200214"
-    },
-    {
-      "id": "WEG-W22-90L-II_polos-desconhecido",
-      "cv": NaN,
-      "kw": NaN,
-      "carcaca": "90L",
-      "rpm": 3520,
-      "massa_kg": 25.0,
-      "criado_em": "2026-04-30T23:28:23.201541"
-    },
-    {
-      "id": "WEG-W22-100L-II_polos-desconhecido",
-      "cv": NaN,
-      "kw": NaN,
-      "carcaca": "100L",
-      "rpm": 3525,
-      "massa_kg": 37.0,
-      "criado_em": "2026-04-30T23:28:23.203435"
-    },
-    {
-      "id": "WEG-W22-112M-II_polos-3.7kw",
-      "cv": 3.0,
-      "kw": 3.7,
-      "carcaca": "112M",
-      "rpm": 3520,
-      "massa_kg": 45.0,
-      "criado_em": "2026-04-30T23:28:23.205073"
-    },
-    {
-      "id": "WEG-W22-132S-II_polos-5.5kw",
-      "cv": 5.0,
-      "kw": 5.5,
-      "carcaca": "132S",
-      "rpm": 3515,
-      "massa_kg": 69.0,
-      "criado_em": "2026-04-30T23:28:23.206638"
-    },
-    {
-      "id": "WEG-W22-132M-II_polos-5.0kw",
-      "cv": 7.5,
-      "kw": 5.0,
-      "carcaca": "132M",
-      "rpm": 3525,
-      "massa_kg": 70.0,
-      "criado_em": "2026-04-30T23:28:23.208098"
-    },
-    {
-      "id": "WEG-W22-132M/L-II_polos-desconhecido",
-      "cv": NaN,
-      "kw": NaN,
-      "carcaca": "132M/L",
-      "rpm": 3530,
-      "massa_kg": 92.0,
-      "criado_em": "2026-04-30T23:28:23.209536"
-    },
-    {
-      "id": "WEG-W22-71-II_polos_opcional-0.18kw",
-      "cv": 5.0,
-      "kw": 0.18,
-      "carcaca": "71",
-      "rpm": 3520,
-      "massa_kg": 10.0,
-      "criado_em": "2026-04-30T23:28:23.211043"
-    },
-    {
-      "id": "WEG-W22-90S-II_polos_opcional-desconhecido",
-      "cv": NaN,
-      "kw": NaN,
-      "carcaca": "90S",
-      "rpm": 3520,
-      "massa_kg": 25.0,
-      "criado_em": "2026-04-30T23:28:23.212557"
-    },
-    {
-      "id": "WEG-W22-90L-II_polos_opcional-desconhecido",
-      "cv": NaN,
-      "kw": NaN,
-      "carcaca": "90L",
-      "rpm": 3500,
-      "massa_kg": 27.5,
-      "criado_em": "2026-04-30T23:28:23.214053"
-    },
-    {
-      "id": "WEG-W22-63-IV_polos-0.12kw",
-      "cv": 6.0,
-      "kw": 0.12,
-      "carcaca": "63",
-      "rpm": 1730,
-      "massa_kg": 9.8,
-      "criado_em": "2026-04-30T23:28:23.215612"
-    },
-    {
-      "id": "WEG-W22-71-IV_polos-0.18kw",
-      "cv": 5.0,
-      "kw": 0.18,
-      "carcaca": "71",
-      "rpm": 1730,
-      "massa_kg": 12.7,
-      "criado_em": "2026-04-30T23:28:23.217404"
-    },
-    {
-      "id": "WEG-W22-71-IV_polos-0.25kw",
-      "cv": 3.0,
-      "kw": 0.25,
-      "carcaca": "71",
-      "rpm": 1725,
-      "massa_kg": 13.2,
-      "criado_em": "2026-04-30T23:28:23.219624"
-    },
-    {
-      "id": "WEG-W22-80-IV_polos-0.37kw",
-      "cv": 5.0,
-      "kw": 0.37,
-      "carcaca": "80",
-      "rpm": 1740,
-      "massa_kg": 17.8,
-      "criado_em": "2026-04-30T23:28:23.221253"
-    },
-    {
-      "id": "WEG-W22-90S-IV_polos-desconhecido",
-      "cv": NaN,
-      "kw": NaN,
-      "carcaca": "90S",
-      "rpm": 1765,
-      "massa_kg": 24.0,
-      "criado_em": "2026-04-30T23:28:23.222873"
-    },
-    {
-      "id": "WEG-W22-90L-IV_polos-1.1kw",
-      "cv": 5.0,
-      "kw": 1.1,
-      "carcaca": "90L",
-      "rpm": 1760,
-      "massa_kg": 28.0,
-      "criado_em": "2026-04-30T23:28:23.224523"
-    },
-    {
-      "id": "WEG-W22-100L-IV_polos-desconhecido",
-      "cv": NaN,
-      "kw": NaN,
-      "carcaca": "100L",
-      "rpm": 1745,
-      "massa_kg": 37.0,
-      "criado_em": "2026-04-30T23:28:23.226183"
-    },
-    {
-      "id": "WEG-W22-112M-IV_polos-3.0kw",
-      "cv": 2.2,
-      "kw": 3.0,
-      "carcaca": "112M",
-      "rpm": 1745,
-      "massa_kg": 46.0,
-      "criado_em": "2026-04-30T23:28:23.227865"
-    },
-    {
-      "id": "WEG-W22-132S-IV_polos-desconhecido",
-      "cv": NaN,
-      "kw": NaN,
-      "carcaca": "132S",
-      "rpm": 1735,
-      "massa_kg": 65.0,
-      "criado_em": "2026-04-30T23:28:23.229565"
-    },
-    {
-      "id": "WEG-W22-132M-IV_polos-5.5kw",
-      "cv": 5.0,
-      "kw": 5.5,
-      "carcaca": "132M",
-      "rpm": 1750,
-      "massa_kg": 80.0,
-      "criado_em": "2026-04-30T23:28:23.231297"
-    },
-    {
-      "id": "WEG-W22-80-IV_polos_opcional-desconhecido",
-      "cv": NaN,
-      "kw": NaN,
-      "carcaca": "80",
-      "rpm": 1740,
-      "massa_kg": 18.0,
-      "criado_em": "2026-04-30T23:28:23.233505"
-    },
-    {
-      "id": "WEG-W22-90L-IV_polos_opcional-desconhecido",
-      "cv": NaN,
-      "kw": NaN,
-      "carcaca": "90L",
-      "rpm": 1765,
-      "massa_kg": 24.0,
-      "criado_em": "2026-04-30T23:28:23.235359"
-    },
-    {
-      "id": "WEG-W22-100L-IV_polos_opcional-desconhecido",
-      "cv": NaN,
-      "kw": NaN,
-      "carcaca": "100L",
-      "rpm": 1750,
-      "massa_kg": 40.0,
-      "criado_em": "2026-04-30T23:28:23.237483"
-    },
-    {
-      "id": "WEG-W22-112M-IV_polos_opcional-desconhecido",
-      "cv": NaN,
-      "kw": NaN,
-      "carcaca": "112M",
-      "rpm": 1730,
-      "massa_kg": 51.0,
-      "criado_em": "2026-04-30T23:28:23.239373"
-    },
-    {
-      "id": "WEG-W22-90L-VI_polos-desconhecido",
-      "cv": NaN,
-      "kw": NaN,
-      "carcaca": "90L",
-      "rpm": 1165,
-      "massa_kg": 27.0,
-      "criado_em": "2026-04-30T23:28:23.241210"
-    },
-    {
-      "id": "WEG-W22-100L-VI_polos-1.1kw",
-      "cv": 5.0,
-      "kw": 1.1,
-      "carcaca": "100L",
-      "rpm": 1175,
-      "massa_kg": 37.0,
-      "criado_em": "2026-04-30T23:28:23.243127"
-    },
-    {
-      "id": "WEG-W22-112M-VI_polos-2.2kw",
-      "cv": 1.5,
-      "kw": 2.2,
-      "carcaca": "112M",
-      "rpm": 1175,
-      "massa_kg": 50.0,
-      "criado_em": "2026-04-30T23:28:23.245053"
-    },
-    {
-      "id": "WEG-W22-132M-VI_polos-desconhecido",
-      "cv": NaN,
-      "kw": NaN,
-      "carcaca": "132M",
-      "rpm": 1175,
-      "massa_kg": 72.0,
-      "criado_em": "2026-04-30T23:28:23.246967"
-    },
-    {
-      "id": "WEG-W22-132M*-VI_polos-desconhecido",
-      "cv": NaN,
-      "kw": NaN,
-      "carcaca": "132M*",
-      "rpm": 1170,
-      "massa_kg": 78.0,
-      "criado_em": "2026-04-30T23:28:23.248919"
-    },
-    {
-      "id": "WEG-W22-63-II_polos-0.12kw",
-      "cv": 6.0,
-      "kw": 0.12,
-      "carcaca": "63",
-      "rpm": 3490,
-      "massa_kg": 10.0,
-      "criado_em": "2026-04-30T23:29:20.573155"
-    },
-    {
-      "id": "WEG-W22-63-II_polos-0.18kw",
-      "cv": 5.0,
-      "kw": 0.18,
-      "carcaca": "63",
-      "rpm": 3490,
-      "massa_kg": 10.7,
-      "criado_em": "2026-04-30T23:29:20.575502"
-    },
-    {
-      "id": "WEG-W22-63-II_polos-0.25kw",
-      "cv": 3.0,
-      "kw": 0.25,
-      "carcaca": "63",
-      "rpm": 3490,
-      "massa_kg": 10.7,
-      "criado_em": "2026-04-30T23:29:20.577555"
-    },
-    {
-      "id": "WEG-W22-71-II_polos-0.37kw",
-      "cv": 5.0,
-      "kw": 0.37,
-      "carcaca": "71",
-      "rpm": 3520,
-      "massa_kg": 13.0,
-      "criado_em": "2026-04-30T23:29:20.579640"
-    },
-    {
-      "id": "WEG-W22-80-II_polos-0.55kw",
-      "cv": 5.0,
-      "kw": 0.55,
-      "carcaca": "80",
-      "rpm": 3525,
-      "massa_kg": 16.5,
-      "criado_em": "2026-04-30T23:29:20.581713"
-    },
-    {
-      "id": "WEG-W22-90S-II_polos-1.1kw",
-      "cv": 5.0,
-      "kw": 1.1,
-      "carcaca": "90S",
-      "rpm": 3535,
-      "massa_kg": 24.0,
-      "criado_em": "2026-04-30T23:29:20.583838"
-    },
-    {
-      "id": "WEG-W22-90L-II_polos-desconhecido",
-      "cv": NaN,
-      "kw": NaN,
-      "carcaca": "90L",
-      "rpm": 3520,
-      "massa_kg": 25.0,
-      "criado_em": "2026-04-30T23:29:20.586900"
-    },
-    {
-      "id": "WEG-W22-100L-II_polos-desconhecido",
-      "cv": NaN,
-      "kw": NaN,
-      "carcaca": "100L",
-      "rpm": 3525,
-      "massa_kg": 37.0,
-      "criado_em": "2026-04-30T23:29:20.589104"
-    },
-    {
-      "id": "WEG-W22-112M-II_polos-3.7kw",
-      "cv": 3.0,
-      "kw": 3.7,
-      "carcaca": "112M",
-      "rpm": 3520,
-      "massa_kg": 45.0,
-      "criado_em": "2026-04-30T23:29:20.591308"
-    },
-    {
-      "id": "WEG-W22-132S-II_polos-5.5kw",
-      "cv": 5.0,
-      "kw": 5.5,
-      "carcaca": "132S",
-      "rpm": 3515,
-      "massa_kg": 69.0,
-      "criado_em": "2026-04-30T23:29:20.593732"
-    },
-    {
-      "id": "WEG-W22-132M-II_polos-5.0kw",
-      "cv": 7.5,
-      "kw": 5.0,
-      "carcaca": "132M",
-      "rpm": 3525,
-      "massa_kg": 70.0,
-      "criado_em": "2026-04-30T23:29:20.595903"
-    },
-    {
-      "id": "WEG-W22-132M/L-II_polos-desconhecido",
-      "cv": NaN,
-      "kw": NaN,
-      "carcaca": "132M/L",
-      "rpm": 3530,
-      "massa_kg": 92.0,
-      "criado_em": "2026-04-30T23:29:20.598173"
-    },
-    {
-      "id": "WEG-W22-71-II_polos_opcional-0.18kw",
-      "cv": 5.0,
-      "kw": 0.18,
-      "carcaca": "71",
-      "rpm": 3520,
-      "massa_kg": 10.0,
-      "criado_em": "2026-04-30T23:29:20.600481"
-    },
-    {
-      "id": "WEG-W22-90S-II_polos_opcional-desconhecido",
-      "cv": NaN,
-      "kw": NaN,
-      "carcaca": "90S",
-      "rpm": 3520,
-      "massa_kg": 25.0,
-      "criado_em": "2026-04-30T23:29:20.603031"
-    },
-    {
-      "id": "WEG-W22-90L-II_polos_opcional-desconhecido",
-      "cv": NaN,
-      "kw": NaN,
-      "carcaca": "90L",
-      "rpm": 3500,
-      "massa_kg": 27.5,
-      "criado_em": "2026-04-30T23:29:20.605476"
-    },
-    {
-      "id": "WEG-W22-63-IV_polos-0.12kw",
-      "cv": 6.0,
-      "kw": 0.12,
-      "carcaca": "63",
-      "rpm": 1730,
-      "massa_kg": 9.8,
-      "criado_em": "2026-04-30T23:29:20.608055"
-    },
-    {
-      "id": "WEG-W22-71-IV_polos-0.18kw",
-      "cv": 5.0,
-      "kw": 0.18,
-      "carcaca": "71",
-      "rpm": 1730,
-      "massa_kg": 12.7,
-      "criado_em": "2026-04-30T23:29:20.610451"
-    },
-    {
-      "id": "WEG-W22-71-IV_polos-0.25kw",
-      "cv": 3.0,
-      "kw": 0.25,
-      "carcaca": "71",
-      "rpm": 1725,
-      "massa_kg": 13.2,
-      "criado_em": "2026-04-30T23:29:20.612829"
-    },
-    {
-      "id": "WEG-W22-80-IV_polos-0.37kw",
-      "cv": 5.0,
-      "kw": 0.37,
-      "carcaca": "80",
-      "rpm": 1740,
-      "massa_kg": 17.8,
-      "criado_em": "2026-04-30T23:29:20.615273"
-    },
-    {
-      "id": "WEG-W22-90S-IV_polos-desconhecido",
-      "cv": NaN,
-      "kw": NaN,
-      "carcaca": "90S",
-      "rpm": 1765,
-      "massa_kg": 24.0,
-      "criado_em": "2026-04-30T23:29:20.617689"
-    },
-    {
-      "id": "WEG-W22-90L-IV_polos-1.1kw",
-      "cv": 5.0,
-      "kw": 1.1,
-      "carcaca": "90L",
-      "rpm": 1760,
-      "massa_kg": 28.0,
-      "criado_em": "2026-04-30T23:29:20.620600"
-    },
-    {
-      "id": "WEG-W22-100L-IV_polos-desconhecido",
-      "cv": NaN,
-      "kw": NaN,
-      "carcaca": "100L",
-      "rpm": 1745,
-      "massa_kg": 37.0,
-      "criado_em": "2026-04-30T23:29:20.623141"
-    },
-    {
-      "id": "WEG-W22-112M-IV_polos-3.0kw",
-      "cv": 2.2,
-      "kw": 3.0,
-      "carcaca": "112M",
-      "rpm": 1745,
-      "massa_kg": 46.0,
-      "criado_em": "2026-04-30T23:29:20.625643"
-    },
-    {
-      "id": "WEG-W22-132S-IV_polos-desconhecido",
-      "cv": NaN,
-      "kw": NaN,
-      "carcaca": "132S",
-      "rpm": 1735,
-      "massa_kg": 65.0,
-      "criado_em": "2026-04-30T23:29:20.628171"
-    },
-    {
-      "id": "WEG-W22-132M-IV_polos-5.5kw",
-      "cv": 5.0,
-      "kw": 5.5,
-      "carcaca": "132M",
-      "rpm": 1750,
-      "massa_kg": 80.0,
-      "criado_em": "2026-04-30T23:29:20.630740"
-    },
-    {
-      "id": "WEG-W22-80-IV_polos_opcional-desconhecido",
-      "cv": NaN,
-      "kw": NaN,
-      "carcaca": "80",
-      "rpm": 1740,
-      "massa_kg": 18.0,
-      "criado_em": "2026-04-30T23:29:20.633280"
-    },
-    {
-      "id": "WEG-W22-90L-IV_polos_opcional-desconhecido",
-      "cv": NaN,
-      "kw": NaN,
-      "carcaca": "90L",
-      "rpm": 1765,
-      "massa_kg": 24.0,
-      "criado_em": "2026-04-30T23:29:20.636099"
-    },
-    {
-      "id": "WEG-W22-100L-IV_polos_opcional-desconhecido",
-      "cv": NaN,
-      "kw": NaN,
-      "carcaca": "100L",
-      "rpm": 1750,
-      "massa_kg": 40.0,
-      "criado_em": "2026-04-30T23:29:20.638711"
-    },
-    {
-      "id": "WEG-W22-112M-IV_polos_opcional-desconhecido",
-      "cv": NaN,
-      "kw": NaN,
-      "carcaca": "112M",
-      "rpm": 1730,
-      "massa_kg": 51.0,
-      "criado_em": "2026-04-30T23:29:20.641315"
-    },
-    {
-      "id": "WEG-W22-90L-VI_polos-desconhecido",
-      "cv": NaN,
-      "kw": NaN,
-      "carcaca": "90L",
-      "rpm": 1165,
-      "massa_kg": 27.0,
-      "criado_em": "2026-04-30T23:29:20.643940"
-    },
-    {
-      "id": "WEG-W22-100L-VI_polos-1.1kw",
-      "cv": 5.0,
-      "kw": 1.1,
-      "carcaca": "100L",
-      "rpm": 1175,
-      "massa_kg": 37.0,
-      "criado_em": "2026-04-30T23:29:20.646638"
-    },
-    {
-      "id": "WEG-W22-112M-VI_polos-2.2kw",
-      "cv": 1.5,
-      "kw": 2.2,
-      "carcaca": "112M",
-      "rpm": 1175,
-      "massa_kg": 50.0,
-      "criado_em": "2026-04-30T23:29:20.649538"
-    },
-    {
-      "id": "WEG-W22-132M-VI_polos-desconhecido",
-      "cv": NaN,
-      "kw": NaN,
-      "carcaca": "132M",
-      "rpm": 1175,
-      "massa_kg": 72.0,
-      "criado_em": "2026-04-30T23:29:20.652654"
-    },
-    {
-      "id": "WEG-W22-132M*-VI_polos-desconhecido",
-      "cv": NaN,
-      "kw": NaN,
-      "carcaca": "132M*",
-      "rpm": 1170,
-      "massa_kg": 78.0,
-      "criado_em": "2026-04-30T23:29:20.655964"
+      "criado_em": "2026-05-04T23:25:21.536580"
     }
   ],
   "audit_log": [
     {
       "operacao": "INSERT",
       "motor_id": "WEG-W22-63-II_polos-0.12kw",
-      "executado_em": "2026-04-30T23:15:32.922402"
+      "executado_em": "2026-05-04T23:25:21.513486"
     },
     {
       "operacao": "INSERT",
       "motor_id": "WEG-W22-63-II_polos-0.18kw",
-      "executado_em": "2026-04-30T23:15:32.923262"
+      "executado_em": "2026-05-04T23:25:21.514461"
     },
     {
       "operacao": "INSERT",
       "motor_id": "WEG-W22-63-II_polos-0.25kw",
-      "executado_em": "2026-04-30T23:15:32.923871"
+      "executado_em": "2026-05-04T23:25:21.515133"
     },
     {
       "operacao": "INSERT",
       "motor_id": "WEG-W22-71-II_polos-0.37kw",
-      "executado_em": "2026-04-30T23:15:32.924435"
+      "executado_em": "2026-05-04T23:25:21.515716"
     },
     {
       "operacao": "INSERT",
       "motor_id": "WEG-W22-80-II_polos-0.55kw",
-      "executado_em": "2026-04-30T23:15:32.925004"
+      "executado_em": "2026-05-04T23:25:21.516312"
     },
     {
       "operacao": "INSERT",
       "motor_id": "WEG-W22-90S-II_polos-1.1kw",
-      "executado_em": "2026-04-30T23:15:32.925532"
+      "executado_em": "2026-05-04T23:25:21.516884"
     },
     {
       "operacao": "INSERT",
       "motor_id": "WEG-W22-90L-II_polos-desconhecido",
-      "executado_em": "2026-04-30T23:15:32.926144"
+      "executado_em": "2026-05-04T23:25:21.517888"
     },
     {
       "operacao": "INSERT",
       "motor_id": "WEG-W22-100L-II_polos-desconhecido",
-      "executado_em": "2026-04-30T23:15:32.926694"
+      "executado_em": "2026-05-04T23:25:21.518590"
     },
     {
       "operacao": "INSERT",
       "motor_id": "WEG-W22-112M-II_polos-3.7kw",
-      "executado_em": "2026-04-30T23:15:32.927298"
+      "executado_em": "2026-05-04T23:25:21.519236"
     },
     {
       "operacao": "INSERT",
       "motor_id": "WEG-W22-132S-II_polos-5.5kw",
-      "executado_em": "2026-04-30T23:15:32.927871"
+      "executado_em": "2026-05-04T23:25:21.519966"
     },
     {
       "operacao": "INSERT",
       "motor_id": "WEG-W22-132M-II_polos-5.0kw",
-      "executado_em": "2026-04-30T23:15:32.928464"
+      "executado_em": "2026-05-04T23:25:21.520946"
     },
     {
       "operacao": "INSERT",
       "motor_id": "WEG-W22-132M/L-II_polos-desconhecido",
-      "executado_em": "2026-04-30T23:15:32.929099"
+      "executado_em": "2026-05-04T23:25:21.521574"
     },
     {
       "operacao": "INSERT",
       "motor_id": "WEG-W22-71-II_polos_opcional-0.18kw",
-      "executado_em": "2026-04-30T23:15:32.929769"
+      "executado_em": "2026-05-04T23:25:21.522380"
     },
     {
       "operacao": "INSERT",
       "motor_id": "WEG-W22-90S-II_polos_opcional-desconhecido",
-      "executado_em": "2026-04-30T23:15:32.930422"
+      "executado_em": "2026-05-04T23:25:21.522975"
     },
     {
       "operacao": "INSERT",
       "motor_id": "WEG-W22-90L-II_polos_opcional-desconhecido",
-      "executado_em": "2026-04-30T23:15:32.931112"
+      "executado_em": "2026-05-04T23:25:21.523531"
     },
     {
       "operacao": "INSERT",
       "motor_id": "WEG-W22-63-IV_polos-0.12kw",
-      "executado_em": "2026-04-30T23:15:32.931866"
+      "executado_em": "2026-05-04T23:25:21.524088"
     },
     {
       "operacao": "INSERT",
       "motor_id": "WEG-W22-71-IV_polos-0.18kw",
-      "executado_em": "2026-04-30T23:15:32.932600"
+      "executado_em": "2026-05-04T23:25:21.524657"
     },
     {
       "operacao": "INSERT",
       "motor_id": "WEG-W22-71-IV_polos-0.25kw",
-      "executado_em": "2026-04-30T23:15:32.933342"
+      "executado_em": "2026-05-04T23:25:21.525253"
     },
     {
       "operacao": "INSERT",
       "motor_id": "WEG-W22-80-IV_polos-0.37kw",
-      "executado_em": "2026-04-30T23:15:32.934181"
+      "executado_em": "2026-05-04T23:25:21.525847"
     },
     {
       "operacao": "INSERT",
       "motor_id": "WEG-W22-90S-IV_polos-desconhecido",
-      "executado_em": "2026-04-30T23:15:32.935128"
+      "executado_em": "2026-05-04T23:25:21.526444"
     },
     {
       "operacao": "INSERT",
       "motor_id": "WEG-W22-90L-IV_polos-1.1kw",
-      "executado_em": "2026-04-30T23:15:32.936031"
+      "executado_em": "2026-05-04T23:25:21.527163"
     },
     {
       "operacao": "INSERT",
       "motor_id": "WEG-W22-100L-IV_polos-desconhecido",
-      "executado_em": "2026-04-30T23:15:32.936922"
+      "executado_em": "2026-05-04T23:25:21.527810"
     },
     {
       "operacao": "INSERT",
       "motor_id": "WEG-W22-112M-IV_polos-3.0kw",
-      "executado_em": "2026-04-30T23:15:32.937879"
+      "executado_em": "2026-05-04T23:25:21.528462"
     },
     {
       "operacao": "INSERT",
       "motor_id": "WEG-W22-132S-IV_polos-desconhecido",
-      "executado_em": "2026-04-30T23:15:32.939127"
+      "executado_em": "2026-05-04T23:25:21.529133"
     },
     {
       "operacao": "INSERT",
       "motor_id": "WEG-W22-132M-IV_polos-5.5kw",
-      "executado_em": "2026-04-30T23:15:32.940217"
+      "executado_em": "2026-05-04T23:25:21.529821"
     },
     {
       "operacao": "INSERT",
       "motor_id": "WEG-W22-80-IV_polos_opcional-desconhecido",
-      "executado_em": "2026-04-30T23:15:32.941274"
+      "executado_em": "2026-05-04T23:25:21.530524"
     },
     {
       "operacao": "INSERT",
       "motor_id": "WEG-W22-90L-IV_polos_opcional-desconhecido",
-      "executado_em": "2026-04-30T23:15:32.942394"
+      "executado_em": "2026-05-04T23:25:21.531246"
     },
     {
       "operacao": "INSERT",
       "motor_id": "WEG-W22-100L-IV_polos_opcional-desconhecido",
-      "executado_em": "2026-04-30T23:15:32.943706"
+      "executado_em": "2026-05-04T23:25:21.531960"
     },
     {
       "operacao": "INSERT",
       "motor_id": "WEG-W22-112M-IV_polos_opcional-desconhecido",
-      "executado_em": "2026-04-30T23:15:32.944861"
+      "executado_em": "2026-05-04T23:25:21.532741"
     },
     {
       "operacao": "INSERT",
       "motor_id": "WEG-W22-90L-VI_polos-desconhecido",
-      "executado_em": "2026-04-30T23:15:32.946057"
+      "executado_em": "2026-05-04T23:25:21.533495"
     },
     {
       "operacao": "INSERT",
       "motor_id": "WEG-W22-100L-VI_polos-1.1kw",
-      "executado_em": "2026-04-30T23:15:32.947291"
+      "executado_em": "2026-05-04T23:25:21.534242"
     },
     {
       "operacao": "INSERT",
       "motor_id": "WEG-W22-112M-VI_polos-2.2kw",
-      "executado_em": "2026-04-30T23:15:32.948462"
+      "executado_em": "2026-05-04T23:25:21.534993"
     },
     {
       "operacao": "INSERT",
       "motor_id": "WEG-W22-132M-VI_polos-desconhecido",
-      "executado_em": "2026-04-30T23:15:32.949660"
+      "executado_em": "2026-05-04T23:25:21.535795"
     },
     {
       "operacao": "INSERT",
       "motor_id": "WEG-W22-132M*-VI_polos-desconhecido",
-      "executado_em": "2026-04-30T23:15:32.950860"
-    },
-    {
-      "operacao": "INSERT",
-      "motor_id": "WEG-W22-63-II_polos-0.12kw",
-      "executado_em": "2026-04-30T23:28:23.192875"
-    },
-    {
-      "operacao": "INSERT",
-      "motor_id": "WEG-W22-63-II_polos-0.18kw",
-      "executado_em": "2026-04-30T23:28:23.194421"
-    },
-    {
-      "operacao": "INSERT",
-      "motor_id": "WEG-W22-63-II_polos-0.25kw",
-      "executado_em": "2026-04-30T23:28:23.195755"
-    },
-    {
-      "operacao": "INSERT",
-      "motor_id": "WEG-W22-71-II_polos-0.37kw",
-      "executado_em": "2026-04-30T23:28:23.197048"
-    },
-    {
-      "operacao": "INSERT",
-      "motor_id": "WEG-W22-80-II_polos-0.55kw",
-      "executado_em": "2026-04-30T23:28:23.198655"
-    },
-    {
-      "operacao": "INSERT",
-      "motor_id": "WEG-W22-90S-II_polos-1.1kw",
-      "executado_em": "2026-04-30T23:28:23.200214"
-    },
-    {
-      "operacao": "INSERT",
-      "motor_id": "WEG-W22-90L-II_polos-desconhecido",
-      "executado_em": "2026-04-30T23:28:23.201541"
-    },
-    {
-      "operacao": "INSERT",
-      "motor_id": "WEG-W22-100L-II_polos-desconhecido",
-      "executado_em": "2026-04-30T23:28:23.203435"
-    },
-    {
-      "operacao": "INSERT",
-      "motor_id": "WEG-W22-112M-II_polos-3.7kw",
-      "executado_em": "2026-04-30T23:28:23.205073"
-    },
-    {
-      "operacao": "INSERT",
-      "motor_id": "WEG-W22-132S-II_polos-5.5kw",
-      "executado_em": "2026-04-30T23:28:23.206638"
-    },
-    {
-      "operacao": "INSERT",
-      "motor_id": "WEG-W22-132M-II_polos-5.0kw",
-      "executado_em": "2026-04-30T23:28:23.208098"
-    },
-    {
-      "operacao": "INSERT",
-      "motor_id": "WEG-W22-132M/L-II_polos-desconhecido",
-      "executado_em": "2026-04-30T23:28:23.209536"
-    },
-    {
-      "operacao": "INSERT",
-      "motor_id": "WEG-W22-71-II_polos_opcional-0.18kw",
-      "executado_em": "2026-04-30T23:28:23.211043"
-    },
-    {
-      "operacao": "INSERT",
-      "motor_id": "WEG-W22-90S-II_polos_opcional-desconhecido",
-      "executado_em": "2026-04-30T23:28:23.212557"
-    },
-    {
-      "operacao": "INSERT",
-      "motor_id": "WEG-W22-90L-II_polos_opcional-desconhecido",
-      "executado_em": "2026-04-30T23:28:23.214053"
-    },
-    {
-      "operacao": "INSERT",
-      "motor_id": "WEG-W22-63-IV_polos-0.12kw",
-      "executado_em": "2026-04-30T23:28:23.215612"
-    },
-    {
-      "operacao": "INSERT",
-      "motor_id": "WEG-W22-71-IV_polos-0.18kw",
-      "executado_em": "2026-04-30T23:28:23.217404"
-    },
-    {
-      "operacao": "INSERT",
-      "motor_id": "WEG-W22-71-IV_polos-0.25kw",
-      "executado_em": "2026-04-30T23:28:23.219624"
-    },
-    {
-      "operacao": "INSERT",
-      "motor_id": "WEG-W22-80-IV_polos-0.37kw",
-      "executado_em": "2026-04-30T23:28:23.221253"
-    },
-    {
-      "operacao": "INSERT",
-      "motor_id": "WEG-W22-90S-IV_polos-desconhecido",
-      "executado_em": "2026-04-30T23:28:23.222873"
-    },
-    {
-      "operacao": "INSERT",
-      "motor_id": "WEG-W22-90L-IV_polos-1.1kw",
-      "executado_em": "2026-04-30T23:28:23.224523"
-    },
-    {
-      "operacao": "INSERT",
-      "motor_id": "WEG-W22-100L-IV_polos-desconhecido",
-      "executado_em": "2026-04-30T23:28:23.226183"
-    },
-    {
-      "operacao": "INSERT",
-      "motor_id": "WEG-W22-112M-IV_polos-3.0kw",
-      "executado_em": "2026-04-30T23:28:23.227865"
-    },
-    {
-      "operacao": "INSERT",
-      "motor_id": "WEG-W22-132S-IV_polos-desconhecido",
-      "executado_em": "2026-04-30T23:28:23.229565"
-    },
-    {
-      "operacao": "INSERT",
-      "motor_id": "WEG-W22-132M-IV_polos-5.5kw",
-      "executado_em": "2026-04-30T23:28:23.231297"
-    },
-    {
-      "operacao": "INSERT",
-      "motor_id": "WEG-W22-80-IV_polos_opcional-desconhecido",
-      "executado_em": "2026-04-30T23:28:23.233505"
-    },
-    {
-      "operacao": "INSERT",
-      "motor_id": "WEG-W22-90L-IV_polos_opcional-desconhecido",
-      "executado_em": "2026-04-30T23:28:23.235359"
-    },
-    {
-      "operacao": "INSERT",
-      "motor_id": "WEG-W22-100L-IV_polos_opcional-desconhecido",
-      "executado_em": "2026-04-30T23:28:23.237483"
-    },
-    {
-      "operacao": "INSERT",
-      "motor_id": "WEG-W22-112M-IV_polos_opcional-desconhecido",
-      "executado_em": "2026-04-30T23:28:23.239373"
-    },
-    {
-      "operacao": "INSERT",
-      "motor_id": "WEG-W22-90L-VI_polos-desconhecido",
-      "executado_em": "2026-04-30T23:28:23.241210"
-    },
-    {
-      "operacao": "INSERT",
-      "motor_id": "WEG-W22-100L-VI_polos-1.1kw",
-      "executado_em": "2026-04-30T23:28:23.243127"
-    },
-    {
-      "operacao": "INSERT",
-      "motor_id": "WEG-W22-112M-VI_polos-2.2kw",
-      "executado_em": "2026-04-30T23:28:23.245053"
-    },
-    {
-      "operacao": "INSERT",
-      "motor_id": "WEG-W22-132M-VI_polos-desconhecido",
-      "executado_em": "2026-04-30T23:28:23.246967"
-    },
-    {
-      "operacao": "INSERT",
-      "motor_id": "WEG-W22-132M*-VI_polos-desconhecido",
-      "executado_em": "2026-04-30T23:28:23.248919"
-    },
-    {
-      "operacao": "INSERT",
-      "motor_id": "WEG-W22-63-II_polos-0.12kw",
-      "executado_em": "2026-04-30T23:29:20.573155"
-    },
-    {
-      "operacao": "INSERT",
-      "motor_id": "WEG-W22-63-II_polos-0.18kw",
-      "executado_em": "2026-04-30T23:29:20.575502"
-    },
-    {
-      "operacao": "INSERT",
-      "motor_id": "WEG-W22-63-II_polos-0.25kw",
-      "executado_em": "2026-04-30T23:29:20.577555"
-    },
-    {
-      "operacao": "INSERT",
-      "motor_id": "WEG-W22-71-II_polos-0.37kw",
-      "executado_em": "2026-04-30T23:29:20.579640"
-    },
-    {
-      "operacao": "INSERT",
-      "motor_id": "WEG-W22-80-II_polos-0.55kw",
-      "executado_em": "2026-04-30T23:29:20.581713"
-    },
-    {
-      "operacao": "INSERT",
-      "motor_id": "WEG-W22-90S-II_polos-1.1kw",
-      "executado_em": "2026-04-30T23:29:20.583838"
-    },
-    {
-      "operacao": "INSERT",
-      "motor_id": "WEG-W22-90L-II_polos-desconhecido",
-      "executado_em": "2026-04-30T23:29:20.586900"
-    },
-    {
-      "operacao": "INSERT",
-      "motor_id": "WEG-W22-100L-II_polos-desconhecido",
-      "executado_em": "2026-04-30T23:29:20.589104"
-    },
-    {
-      "operacao": "INSERT",
-      "motor_id": "WEG-W22-112M-II_polos-3.7kw",
-      "executado_em": "2026-04-30T23:29:20.591308"
-    },
-    {
-      "operacao": "INSERT",
-      "motor_id": "WEG-W22-132S-II_polos-5.5kw",
-      "executado_em": "2026-04-30T23:29:20.593732"
-    },
-    {
-      "operacao": "INSERT",
-      "motor_id": "WEG-W22-132M-II_polos-5.0kw",
-      "executado_em": "2026-04-30T23:29:20.595903"
-    },
-    {
-      "operacao": "INSERT",
-      "motor_id": "WEG-W22-132M/L-II_polos-desconhecido",
-      "executado_em": "2026-04-30T23:29:20.598173"
-    },
-    {
-      "operacao": "INSERT",
-      "motor_id": "WEG-W22-71-II_polos_opcional-0.18kw",
-      "executado_em": "2026-04-30T23:29:20.600481"
-    },
-    {
-      "operacao": "INSERT",
-      "motor_id": "WEG-W22-90S-II_polos_opcional-desconhecido",
-      "executado_em": "2026-04-30T23:29:20.603031"
-    },
-    {
-      "operacao": "INSERT",
-      "motor_id": "WEG-W22-90L-II_polos_opcional-desconhecido",
-      "executado_em": "2026-04-30T23:29:20.605476"
-    },
-    {
-      "operacao": "INSERT",
-      "motor_id": "WEG-W22-63-IV_polos-0.12kw",
-      "executado_em": "2026-04-30T23:29:20.608055"
-    },
-    {
-      "operacao": "INSERT",
-      "motor_id": "WEG-W22-71-IV_polos-0.18kw",
-      "executado_em": "2026-04-30T23:29:20.610451"
-    },
-    {
-      "operacao": "INSERT",
-      "motor_id": "WEG-W22-71-IV_polos-0.25kw",
-      "executado_em": "2026-04-30T23:29:20.612829"
-    },
-    {
-      "operacao": "INSERT",
-      "motor_id": "WEG-W22-80-IV_polos-0.37kw",
-      "executado_em": "2026-04-30T23:29:20.615273"
-    },
-    {
-      "operacao": "INSERT",
-      "motor_id": "WEG-W22-90S-IV_polos-desconhecido",
-      "executado_em": "2026-04-30T23:29:20.617689"
-    },
-    {
-      "operacao": "INSERT",
-      "motor_id": "WEG-W22-90L-IV_polos-1.1kw",
-      "executado_em": "2026-04-30T23:29:20.620600"
-    },
-    {
-      "operacao": "INSERT",
-      "motor_id": "WEG-W22-100L-IV_polos-desconhecido",
-      "executado_em": "2026-04-30T23:29:20.623141"
-    },
-    {
-      "operacao": "INSERT",
-      "motor_id": "WEG-W22-112M-IV_polos-3.0kw",
-      "executado_em": "2026-04-30T23:29:20.625643"
-    },
-    {
-      "operacao": "INSERT",
-      "motor_id": "WEG-W22-132S-IV_polos-desconhecido",
-      "executado_em": "2026-04-30T23:29:20.628171"
-    },
-    {
-      "operacao": "INSERT",
-      "motor_id": "WEG-W22-132M-IV_polos-5.5kw",
-      "executado_em": "2026-04-30T23:29:20.630740"
-    },
-    {
-      "operacao": "INSERT",
-      "motor_id": "WEG-W22-80-IV_polos_opcional-desconhecido",
-      "executado_em": "2026-04-30T23:29:20.633280"
-    },
-    {
-      "operacao": "INSERT",
-      "motor_id": "WEG-W22-90L-IV_polos_opcional-desconhecido",
-      "executado_em": "2026-04-30T23:29:20.636099"
-    },
-    {
-      "operacao": "INSERT",
-      "motor_id": "WEG-W22-100L-IV_polos_opcional-desconhecido",
-      "executado_em": "2026-04-30T23:29:20.638711"
-    },
-    {
-      "operacao": "INSERT",
-      "motor_id": "WEG-W22-112M-IV_polos_opcional-desconhecido",
-      "executado_em": "2026-04-30T23:29:20.641315"
-    },
-    {
-      "operacao": "INSERT",
-      "motor_id": "WEG-W22-90L-VI_polos-desconhecido",
-      "executado_em": "2026-04-30T23:29:20.643940"
-    },
-    {
-      "operacao": "INSERT",
-      "motor_id": "WEG-W22-100L-VI_polos-1.1kw",
-      "executado_em": "2026-04-30T23:29:20.646638"
-    },
-    {
-      "operacao": "INSERT",
-      "motor_id": "WEG-W22-112M-VI_polos-2.2kw",
-      "executado_em": "2026-04-30T23:29:20.649538"
-    },
-    {
-      "operacao": "INSERT",
-      "motor_id": "WEG-W22-132M-VI_polos-desconhecido",
-      "executado_em": "2026-04-30T23:29:20.652654"
-    },
-    {
-      "operacao": "INSERT",
-      "motor_id": "WEG-W22-132M*-VI_polos-desconhecido",
-      "executado_em": "2026-04-30T23:29:20.655964"
-    }
-  ],
-  "leituras": [
-    {
-      "motor_id": "WEG-W22-63-II_polos-0.12kw",
-      "timestamp": "2026-04-30T23:28:06.067225",
-      "temperatura_c": 70.27,
-      "vibração_mm_s": 5.595,
-      "corrente_a": 13.57,
-      "rpm": 1488,
-      "status": "ok"
-    },
-    {
-      "motor_id": "WEG-W22-80-II_polos-0.55kw",
-      "timestamp": "2026-04-30T23:28:06.074940",
-      "temperatura_c": 80.59,
-      "vibração_mm_s": 9.462,
-      "corrente_a": 18.82,
-      "rpm": 1479,
-      "status": "ok"
-    },
-    {
-      "motor_id": "WEG-W22-112M-IV_polos-3.0kw",
-      "timestamp": "2026-04-30T23:28:06.080011",
-      "temperatura_c": 60.07,
-      "vibração_mm_s": 3.938,
-      "corrente_a": 14.99,
-      "rpm": 1503,
-      "status": "ok"
-    },
-    {
-      "motor_id": "WEG-W22-63-II_polos-0.12kw",
-      "timestamp": "2026-04-30T23:29:30.664538",
-      "temperatura_c": 55.14,
-      "vibração_mm_s": 11.97,
-      "corrente_a": 18.31,
-      "rpm": 1482,
-      "status": "ok"
-    },
-    {
-      "motor_id": "WEG-W22-80-II_polos-0.55kw",
-      "timestamp": "2026-04-30T23:29:30.670568",
-      "temperatura_c": 79.94,
-      "vibração_mm_s": 9.141,
-      "corrente_a": 13.61,
-      "rpm": 1455,
-      "status": "ok"
-    },
-    {
-      "motor_id": "WEG-W22-112M-IV_polos-3.0kw",
-      "timestamp": "2026-04-30T23:29:30.673762",
-      "temperatura_c": 75.01,
-      "vibração_mm_s": 8.572,
-      "corrente_a": 16.12,
-      "rpm": 1460,
-      "status": "ok"
-    },
-    {
-      "motor_id": "WEG-W22-63-II_polos-0.12kw",
-      "timestamp": "2026-04-30T23:29:40.671255",
-      "temperatura_c": 91.44,
-      "vibração_mm_s": 10.823,
-      "corrente_a": 14.65,
-      "rpm": 1475,
-      "status": "ok"
-    },
-    {
-      "motor_id": "WEG-W22-80-II_polos-0.55kw",
-      "timestamp": "2026-04-30T23:29:40.682948",
-      "temperatura_c": 52.94,
-      "vibração_mm_s": 0.636,
-      "corrente_a": 29.27,
-      "rpm": 1457,
-      "status": "ok"
-    },
-    {
-      "motor_id": "WEG-W22-112M-IV_polos-3.0kw",
-      "timestamp": "2026-04-30T23:29:40.693436",
-      "temperatura_c": 94.35,
-      "vibração_mm_s": 2.902,
-      "corrente_a": 8.49,
-      "rpm": 1501,
-      "status": "ok"
-    },
-    {
-      "motor_id": "WEG-W22-63-II_polos-0.12kw",
-      "timestamp": "2026-04-30T23:29:50.672549",
-      "temperatura_c": 51.17,
-      "vibração_mm_s": 1.46,
-      "corrente_a": 9.71,
-      "rpm": 1494,
-      "status": "ok"
-    },
-    {
-      "motor_id": "WEG-W22-80-II_polos-0.55kw",
-      "timestamp": "2026-04-30T23:29:50.682725",
-      "temperatura_c": 94.04,
-      "vibração_mm_s": 1.295,
-      "corrente_a": 21.28,
-      "rpm": 1497,
-      "status": "ok"
-    },
-    {
-      "motor_id": "WEG-W22-112M-IV_polos-3.0kw",
-      "timestamp": "2026-04-30T23:29:50.693378",
-      "temperatura_c": 68.11,
-      "vibração_mm_s": 3.112,
-      "corrente_a": 17.62,
-      "rpm": 1487,
-      "status": "ok"
-    },
-    {
-      "motor_id": "WEG-W22-63-II_polos-0.12kw",
-      "timestamp": "2026-04-30T23:30:00.676094",
-      "temperatura_c": 64.5,
-      "vibração_mm_s": 6.471,
-      "corrente_a": 18.95,
-      "rpm": 1482,
-      "status": "ok"
-    },
-    {
-      "motor_id": "WEG-W22-80-II_polos-0.55kw",
-      "timestamp": "2026-04-30T23:30:00.683993",
-      "temperatura_c": 43.21,
-      "vibração_mm_s": 2.99,
-      "corrente_a": 23.05,
-      "rpm": 1466,
-      "status": "ok"
-    },
-    {
-      "motor_id": "WEG-W22-112M-IV_polos-3.0kw",
-      "timestamp": "2026-04-30T23:30:00.693403",
-      "temperatura_c": 81.04,
-      "vibração_mm_s": 6.091,
-      "corrente_a": 12.49,
-      "rpm": 1479,
-      "status": "ok"
-    },
-    {
-      "motor_id": "WEG-W22-63-II_polos-0.12kw",
-      "timestamp": "2026-04-30T23:30:10.672325",
-      "temperatura_c": 49.26,
-      "vibração_mm_s": 6.222,
-      "corrente_a": 28.48,
-      "rpm": 1487,
-      "status": "ok"
-    },
-    {
-      "motor_id": "WEG-W22-80-II_polos-0.55kw",
-      "timestamp": "2026-04-30T23:30:10.679645",
-      "temperatura_c": 56.39,
-      "vibração_mm_s": 9.51,
-      "corrente_a": 21.98,
-      "rpm": 1465,
-      "status": "ok"
-    },
-    {
-      "motor_id": "WEG-W22-112M-IV_polos-3.0kw",
-      "timestamp": "2026-04-30T23:30:10.683371",
-      "temperatura_c": 83.61,
-      "vibração_mm_s": 6.987,
-      "corrente_a": 21.45,
-      "rpm": 1481,
-      "status": "ok"
-    },
-    {
-      "motor_id": "WEG-W22-63-II_polos-0.12kw",
-      "timestamp": "2026-04-30T23:30:20.667465",
-      "temperatura_c": 78.06,
-      "vibração_mm_s": 2.194,
-      "corrente_a": 28.32,
-      "rpm": 1481,
-      "status": "ok"
-    },
-    {
-      "motor_id": "WEG-W22-80-II_polos-0.55kw",
-      "timestamp": "2026-04-30T23:30:20.676321",
-      "temperatura_c": 78.61,
-      "vibração_mm_s": 11.976,
-      "corrente_a": 16.05,
-      "rpm": 1484,
-      "status": "ok"
-    },
-    {
-      "motor_id": "WEG-W22-112M-IV_polos-3.0kw",
-      "timestamp": "2026-04-30T23:30:20.680246",
-      "temperatura_c": 56.36,
-      "vibração_mm_s": 8.752,
-      "corrente_a": 18.77,
-      "rpm": 1475,
-      "status": "ok"
-    },
-    {
-      "motor_id": "WEG-W22-63-II_polos-0.12kw",
-      "timestamp": "2026-04-30T23:30:30.673500",
-      "temperatura_c": 90.84,
-      "vibração_mm_s": 11.718,
-      "corrente_a": 27.85,
-      "rpm": 1496,
-      "status": "ok"
-    },
-    {
-      "motor_id": "WEG-W22-80-II_polos-0.55kw",
-      "timestamp": "2026-04-30T23:30:30.680615",
-      "temperatura_c": 40.84,
-      "vibração_mm_s": 5.434,
-      "corrente_a": 12.41,
-      "rpm": 1457,
-      "status": "ok"
-    },
-    {
-      "motor_id": "WEG-W22-112M-IV_polos-3.0kw",
-      "timestamp": "2026-04-30T23:30:30.685706",
-      "temperatura_c": 71.79,
-      "vibração_mm_s": 7.325,
-      "corrente_a": 10.08,
-      "rpm": 1486,
-      "status": "ok"
-    },
-    {
-      "motor_id": "WEG-W22-63-II_polos-0.12kw",
-      "timestamp": "2026-04-30T23:30:40.664323",
-      "temperatura_c": 41.57,
-      "vibração_mm_s": 11.413,
-      "corrente_a": 15.23,
-      "rpm": 1454,
-      "status": "ok"
-    },
-    {
-      "motor_id": "WEG-W22-80-II_polos-0.55kw",
-      "timestamp": "2026-04-30T23:30:40.673186",
-      "temperatura_c": 73.43,
-      "vibração_mm_s": 5.746,
-      "corrente_a": 10.55,
-      "rpm": 1497,
-      "status": "ok"
-    },
-    {
-      "motor_id": "WEG-W22-112M-IV_polos-3.0kw",
-      "timestamp": "2026-04-30T23:30:40.677129",
-      "temperatura_c": 49.04,
-      "vibração_mm_s": 8.636,
-      "corrente_a": 21.95,
-      "rpm": 1464,
-      "status": "ok"
-    },
-    {
-      "motor_id": "WEG-W22-63-II_polos-0.12kw",
-      "timestamp": "2026-04-30T23:30:50.666143",
-      "temperatura_c": 84.64,
-      "vibração_mm_s": 3.556,
-      "corrente_a": 19.65,
-      "rpm": 1498,
-      "status": "ok"
-    },
-    {
-      "motor_id": "WEG-W22-80-II_polos-0.55kw",
-      "timestamp": "2026-04-30T23:30:50.693069",
-      "temperatura_c": 45.35,
-      "vibração_mm_s": 6.988,
-      "corrente_a": 28.09,
-      "rpm": 1509,
-      "status": "ok"
-    },
-    {
-      "motor_id": "WEG-W22-112M-IV_polos-3.0kw",
-      "timestamp": "2026-04-30T23:30:50.711740",
-      "temperatura_c": 59.16,
-      "vibração_mm_s": 11.326,
-      "corrente_a": 28.31,
-      "rpm": 1450,
-      "status": "ok"
-    },
-    {
-      "motor_id": "WEG-W22-63-II_polos-0.12kw",
-      "timestamp": "2026-04-30T23:31:00.670409",
-      "temperatura_c": 93.24,
-      "vibração_mm_s": 1.034,
-      "corrente_a": 14.55,
-      "rpm": 1472,
-      "status": "ok"
-    },
-    {
-      "motor_id": "WEG-W22-80-II_polos-0.55kw",
-      "timestamp": "2026-04-30T23:31:00.677649",
-      "temperatura_c": 78.87,
-      "vibração_mm_s": 9.053,
-      "corrente_a": 25.32,
-      "rpm": 1450,
-      "status": "ok"
-    },
-    {
-      "motor_id": "WEG-W22-112M-IV_polos-3.0kw",
-      "timestamp": "2026-04-30T23:31:00.684484",
-      "temperatura_c": 54.61,
-      "vibração_mm_s": 8.658,
-      "corrente_a": 23.43,
-      "rpm": 1486,
-      "status": "ok"
-    },
-    {
-      "motor_id": "WEG-W22-63-II_polos-0.12kw",
-      "timestamp": "2026-04-30T23:31:10.671868",
-      "temperatura_c": 71.64,
-      "vibração_mm_s": 1.969,
-      "corrente_a": 11.24,
-      "rpm": 1477,
-      "status": "ok"
-    },
-    {
-      "motor_id": "WEG-W22-80-II_polos-0.55kw",
-      "timestamp": "2026-04-30T23:31:10.689188",
-      "temperatura_c": 54.09,
-      "vibração_mm_s": 11.767,
-      "corrente_a": 13.0,
-      "rpm": 1494,
-      "status": "ok"
-    },
-    {
-      "motor_id": "WEG-W22-112M-IV_polos-3.0kw",
-      "timestamp": "2026-04-30T23:31:10.713190",
-      "temperatura_c": 72.56,
-      "vibração_mm_s": 3.332,
-      "corrente_a": 12.71,
-      "rpm": 1462,
-      "status": "ok"
-    },
-    {
-      "motor_id": "WEG-W22-63-II_polos-0.12kw",
-      "timestamp": "2026-04-30T23:31:20.672506",
-      "temperatura_c": 64.34,
-      "vibração_mm_s": 9.595,
-      "corrente_a": 10.74,
-      "rpm": 1473,
-      "status": "ok"
-    },
-    {
-      "motor_id": "WEG-W22-80-II_polos-0.55kw",
-      "timestamp": "2026-04-30T23:31:20.682403",
-      "temperatura_c": 42.31,
-      "vibração_mm_s": 5.159,
-      "corrente_a": 10.77,
-      "rpm": 1475,
-      "status": "ok"
-    },
-    {
-      "motor_id": "WEG-W22-112M-IV_polos-3.0kw",
-      "timestamp": "2026-04-30T23:31:20.686103",
-      "temperatura_c": 55.21,
-      "vibração_mm_s": 5.121,
-      "corrente_a": 12.39,
-      "rpm": 1465,
-      "status": "ok"
-    },
-    {
-      "motor_id": "WEG-W22-63-II_polos-0.12kw",
-      "timestamp": "2026-04-30T23:31:30.674515",
-      "temperatura_c": 47.22,
-      "vibração_mm_s": 0.792,
-      "corrente_a": 12.39,
-      "rpm": 1480,
-      "status": "ok"
-    },
-    {
-      "motor_id": "WEG-W22-80-II_polos-0.55kw",
-      "timestamp": "2026-04-30T23:31:30.681901",
-      "temperatura_c": 43.22,
-      "vibração_mm_s": 4.817,
-      "corrente_a": 25.25,
-      "rpm": 1504,
-      "status": "ok"
-    },
-    {
-      "motor_id": "WEG-W22-112M-IV_polos-3.0kw",
-      "timestamp": "2026-04-30T23:31:30.686136",
-      "temperatura_c": 71.12,
-      "vibração_mm_s": 3.346,
-      "corrente_a": 8.28,
-      "rpm": 1450,
-      "status": "ok"
-    },
-    {
-      "motor_id": "WEG-W22-63-II_polos-0.12kw",
-      "timestamp": "2026-04-30T23:31:40.664527",
-      "temperatura_c": 94.04,
-      "vibração_mm_s": 10.124,
-      "corrente_a": 10.27,
-      "rpm": 1475,
-      "status": "ok"
-    },
-    {
-      "motor_id": "WEG-W22-80-II_polos-0.55kw",
-      "timestamp": "2026-04-30T23:31:40.672385",
-      "temperatura_c": 48.87,
-      "vibração_mm_s": 3.844,
-      "corrente_a": 25.74,
-      "rpm": 1455,
-      "status": "ok"
-    },
-    {
-      "motor_id": "WEG-W22-112M-IV_polos-3.0kw",
-      "timestamp": "2026-04-30T23:31:40.675911",
-      "temperatura_c": 87.94,
-      "vibração_mm_s": 7.487,
-      "corrente_a": 23.13,
-      "rpm": 1509,
-      "status": "ok"
-    },
-    {
-      "motor_id": "WEG-W22-63-II_polos-0.12kw",
-      "timestamp": "2026-04-30T23:31:50.663720",
-      "temperatura_c": 79.59,
-      "vibração_mm_s": 11.555,
-      "corrente_a": 21.08,
-      "rpm": 1493,
-      "status": "ok"
-    },
-    {
-      "motor_id": "WEG-W22-80-II_polos-0.55kw",
-      "timestamp": "2026-04-30T23:31:50.670781",
-      "temperatura_c": 83.06,
-      "vibração_mm_s": 3.173,
-      "corrente_a": 11.56,
-      "rpm": 1481,
-      "status": "ok"
-    },
-    {
-      "motor_id": "WEG-W22-112M-IV_polos-3.0kw",
-      "timestamp": "2026-04-30T23:31:50.674834",
-      "temperatura_c": 78.37,
-      "vibração_mm_s": 9.622,
-      "corrente_a": 12.72,
-      "rpm": 1469,
-      "status": "ok"
-    },
-    {
-      "motor_id": "WEG-W22-63-II_polos-0.12kw",
-      "timestamp": "2026-04-30T23:32:00.678319",
-      "temperatura_c": 56.68,
-      "vibração_mm_s": 9.865,
-      "corrente_a": 20.99,
-      "rpm": 1463,
-      "status": "ok"
-    },
-    {
-      "motor_id": "WEG-W22-80-II_polos-0.55kw",
-      "timestamp": "2026-04-30T23:32:00.685831",
-      "temperatura_c": 80.06,
-      "vibração_mm_s": 6.547,
-      "corrente_a": 26.95,
-      "rpm": 1480,
-      "status": "ok"
-    },
-    {
-      "motor_id": "WEG-W22-112M-IV_polos-3.0kw",
-      "timestamp": "2026-04-30T23:32:00.689490",
-      "temperatura_c": 48.39,
-      "vibração_mm_s": 9.566,
-      "corrente_a": 10.0,
-      "rpm": 1466,
-      "status": "ok"
-    },
-    {
-      "motor_id": "WEG-W22-63-II_polos-0.12kw",
-      "timestamp": "2026-04-30T23:32:10.674326",
-      "temperatura_c": 52.41,
-      "vibração_mm_s": 10.927,
-      "corrente_a": 16.24,
-      "rpm": 1484,
-      "status": "ok"
-    },
-    {
-      "motor_id": "WEG-W22-80-II_polos-0.55kw",
-      "timestamp": "2026-04-30T23:32:10.699432",
-      "temperatura_c": 62.75,
-      "vibração_mm_s": 7.776,
-      "corrente_a": 25.08,
-      "rpm": 1476,
-      "status": "ok"
-    },
-    {
-      "motor_id": "WEG-W22-112M-IV_polos-3.0kw",
-      "timestamp": "2026-04-30T23:32:10.710834",
-      "temperatura_c": 51.93,
-      "vibração_mm_s": 5.86,
-      "corrente_a": 18.8,
-      "rpm": 1455,
-      "status": "ok"
-    },
-    {
-      "motor_id": "WEG-W22-63-II_polos-0.12kw",
-      "timestamp": "2026-04-30T23:32:20.665840",
-      "temperatura_c": 93.03,
-      "vibração_mm_s": 6.639,
-      "corrente_a": 18.87,
-      "rpm": 1483,
-      "status": "ok"
-    },
-    {
-      "motor_id": "WEG-W22-80-II_polos-0.55kw",
-      "timestamp": "2026-04-30T23:32:20.682102",
-      "temperatura_c": 55.03,
-      "vibração_mm_s": 10.18,
-      "corrente_a": 19.92,
-      "rpm": 1482,
-      "status": "ok"
-    },
-    {
-      "motor_id": "WEG-W22-112M-IV_polos-3.0kw",
-      "timestamp": "2026-04-30T23:32:20.702651",
-      "temperatura_c": 49.97,
-      "vibração_mm_s": 8.674,
-      "corrente_a": 27.37,
-      "rpm": 1459,
-      "status": "ok"
-    },
-    {
-      "motor_id": "WEG-W22-63-II_polos-0.12kw",
-      "timestamp": "2026-04-30T23:32:30.675761",
-      "temperatura_c": 52.8,
-      "vibração_mm_s": 11.943,
-      "corrente_a": 9.98,
-      "rpm": 1488,
-      "status": "ok"
-    },
-    {
-      "motor_id": "WEG-W22-80-II_polos-0.55kw",
-      "timestamp": "2026-04-30T23:32:30.685755",
-      "temperatura_c": 80.31,
-      "vibração_mm_s": 0.651,
-      "corrente_a": 19.29,
-      "rpm": 1481,
-      "status": "ok"
-    },
-    {
-      "motor_id": "WEG-W22-112M-IV_polos-3.0kw",
-      "timestamp": "2026-04-30T23:32:30.689739",
-      "temperatura_c": 66.21,
-      "vibração_mm_s": 4.77,
-      "corrente_a": 17.91,
-      "rpm": 1462,
-      "status": "ok"
-    },
-    {
-      "motor_id": "WEG-W22-63-II_polos-0.12kw",
-      "timestamp": "2026-04-30T23:32:40.663207",
-      "temperatura_c": 51.11,
-      "vibração_mm_s": 1.07,
-      "corrente_a": 15.44,
-      "rpm": 1457,
-      "status": "ok"
-    },
-    {
-      "motor_id": "WEG-W22-80-II_polos-0.55kw",
-      "timestamp": "2026-04-30T23:32:40.677907",
-      "temperatura_c": 41.65,
-      "vibração_mm_s": 6.998,
-      "corrente_a": 19.66,
-      "rpm": 1473,
-      "status": "ok"
-    },
-    {
-      "motor_id": "WEG-W22-112M-IV_polos-3.0kw",
-      "timestamp": "2026-04-30T23:32:40.684360",
-      "temperatura_c": 81.83,
-      "vibração_mm_s": 1.17,
-      "corrente_a": 27.09,
-      "rpm": 1450,
-      "status": "ok"
-    },
-    {
-      "motor_id": "WEG-W22-63-II_polos-0.12kw",
-      "timestamp": "2026-04-30T23:32:50.669564",
-      "temperatura_c": 79.18,
-      "vibração_mm_s": 9.321,
-      "corrente_a": 28.27,
-      "rpm": 1452,
-      "status": "ok"
-    },
-    {
-      "motor_id": "WEG-W22-80-II_polos-0.55kw",
-      "timestamp": "2026-04-30T23:32:50.678674",
-      "temperatura_c": 51.0,
-      "vibração_mm_s": 11.292,
-      "corrente_a": 11.28,
-      "rpm": 1450,
-      "status": "ok"
-    },
-    {
-      "motor_id": "WEG-W22-112M-IV_polos-3.0kw",
-      "timestamp": "2026-04-30T23:32:50.688201",
-      "temperatura_c": 48.71,
-      "vibração_mm_s": 10.639,
-      "corrente_a": 18.45,
-      "rpm": 1472,
-      "status": "ok"
-    },
-    {
-      "motor_id": "WEG-W22-63-II_polos-0.12kw",
-      "timestamp": "2026-04-30T23:33:00.667899",
-      "temperatura_c": 67.45,
-      "vibração_mm_s": 10.577,
-      "corrente_a": 26.77,
-      "rpm": 1469,
-      "status": "ok"
-    },
-    {
-      "motor_id": "WEG-W22-80-II_polos-0.55kw",
-      "timestamp": "2026-04-30T23:33:00.675025",
-      "temperatura_c": 80.07,
-      "vibração_mm_s": 5.408,
-      "corrente_a": 23.24,
-      "rpm": 1454,
-      "status": "ok"
-    },
-    {
-      "motor_id": "WEG-W22-112M-IV_polos-3.0kw",
-      "timestamp": "2026-04-30T23:33:00.678884",
-      "temperatura_c": 74.1,
-      "vibração_mm_s": 1.986,
-      "corrente_a": 22.89,
-      "rpm": 1453,
-      "status": "ok"
+      "executado_em": "2026-05-04T23:25:21.536580"
     }
   ]
 }
