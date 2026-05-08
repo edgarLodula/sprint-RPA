@@ -4,6 +4,20 @@
 
 ---
 
+## Equipe — Grupo CodeX
+
+| RM | Nome |
+|---|---|
+| 552574 | Bruno Fernandes Nascimento |
+| 565260 | Edgar Lódula de Assis |
+| 565293 | Guilherme Gama |
+| 563632 | Igor Thiago Nakajima |
+| 566325 | Júlia Aben Athar |
+
+> Curso: Tecnólogo em Inteligência Artificial — FIAP
+
+---
+
 ## Contexto
 
 Este repositório contém as automações desenvolvidas na **Sprint 1** de uma solução de monitoramento e manutenção preditiva de motores elétricos industriais (WEG W22 Monofásico).
@@ -29,17 +43,17 @@ sprint-RPA/
 ├── data/
 │   ├── pdf/
 │   │   └── sprint_data.pdf       # Catálogo técnico WEG W22
-│   └── ativos.json               # Base de dados gerada automaticamente
+│   └── json/
+│       └── ativos.json           # Base de dados gerada automaticamente
 │
 ├── src/
-│   ├── __init__.py
 │   ├── process_pdf.py            # Extração e normalização do PDF
 │   ├── database.py               # Persistência em JSON com audit log
 │   ├── sensor_simulator.py       # Simulação de leituras IoT
-│   ├── scheduler.py              # Rotina de atualização periódica
-│   └── login.py                 # Logging padronizado
+│   ├── agendador.py              # Rotina de atualização periódica
+│   └── login.py                  # Logging padronizado
 │
-├── logs/                         # Logs gerados em execução
+├── logs/                         # Logs gerados em execução (YYYYMMDD.log)
 ├── tests/
 │   └── test_database.py          # Testes automatizados
 ├── main.py                       # Ponto de entrada do pipeline
@@ -67,13 +81,13 @@ PDF (Catálogo WEG W22)
         │
         ├──────────────────────────────┐
         ▼                              ▼
-  scheduler.py                  logs/YYYYMMDD.log
+  agendador.py                  logs/YYYYMMDD.log
   └── APScheduler (10s)         └── rastreabilidade
       └── sensor_simulator.py        de execuções
           └── leituras IoT simuladas
 ```
 
-### Fluxo de dados
+### Fluxo de Dados
 
 **Entrada → Processamento → Saída**
 
@@ -89,8 +103,8 @@ PDF (Catálogo WEG W22)
 |---|---|---|---|
 | `pdfplumber` | 0.11.9 | Extração de tabelas do PDF | Melhor suporte a tabelas com células mescladas vs PyPDF2 |
 | `PyMuPDF` | 1.27.2 | Extração de texto corrido | Alta fidelidade na extração de texto por página |
-| `pandas` | 3.0.2 | Transformação e normalização | Padrão de mercado para manipulação tabular em Python |
-| `APScheduler` | 3.10.4 | Rotina de atualização periódica | Leve, sem dependência de infraestrutura externa (sem Redis, sem Celery) |
+| `pandas` | 2.2.3 | Transformação e normalização | Padrão de mercado para manipulação tabular em Python |
+| `APScheduler` | 3.11.2 | Rotina de atualização periódica | Leve, sem dependência de infraestrutura externa (sem Redis, sem Celery) |
 | `JSON` | — | Persistência estruturada | Justificativa abaixo |
 | `logging` | stdlib | Rastreabilidade das execuções | Nativo do Python, sem dependência adicional |
 | `Docker` | — | Execução reprodutível | Elimina divergências de ambiente entre máquinas |
@@ -145,7 +159,13 @@ python main.py
 ### Scheduler (atualização periódica)
 
 ```bash
-python -m src.scheduler
+python -m src.agendador
+```
+
+### Testes
+
+```bash
+pytest tests/
 ```
 
 ---
@@ -154,7 +174,7 @@ python -m src.scheduler
 
 Após rodar `python main.py` ou `docker run sprint-rpa`:
 
-- `data/ativos.json` — base populada com os motores extraídos do PDF e audit_log de cada inserção
+- `data/json/ativos.json` — base populada com os motores extraídos do PDF e audit_log de cada inserção
 - `logs/YYYYMMDD.log` — log com timestamp de cada etapa do pipeline
 
 ---
@@ -170,25 +190,11 @@ Após rodar `python main.py` ou `docker run sprint-rpa`:
 | RF05 | Persistência histórica com audit log | ✅ Concluído |
 | RF06 | Logs de rastreabilidade | ✅ Concluído |
 | RNF | Docker — execução reprodutível | ✅ Concluído |
-| RNF | Código versionado no GitHub | ⏳ Pendente |
-| RNF | Testes automatizados (pytest) | ⏳ Pendente |
-
----
-
-## Equipe
-
-552574 - Bruno Fernandes Nascimento
-
-565260 - Edgar Lódula de Assis
-
-566325 - Júlia Aben-Athar 
-
-565293 - Guilherme Gama 
-
-563632 - Igor Nakajim
+| RNF | Código versionado no GitHub | ✅ Concluído |
+| RNF | Testes automatizados (pytest) | ✅ Concluído |
 
 ---
 
 ## Licença
 
-Este projeto foi desenvolvido para fins acadêmicos.
+Este projeto foi desenvolvido para fins acadêmicos — FIAP 2026.
